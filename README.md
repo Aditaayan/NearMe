@@ -130,6 +130,7 @@ Execute the programs and publish them.
 ```
 
 ### hospital.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
